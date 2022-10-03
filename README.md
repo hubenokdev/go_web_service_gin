@@ -30,4 +30,4 @@ curl http://localhost:8080/albums \
     --request "POST" \
     --data '{"id": "4","title": "The Modern Sound of Betty Carter","artist": "Betty Carter","price": 49.99}'
 
-    
+curl http://localhost:8080/albums/2
