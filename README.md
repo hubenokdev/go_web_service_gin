@@ -1,7 +1,7 @@
 # go_web_service_gin
 
 An installation of Go 1.16 or later. For installation instructions, see Installing Go.
-A tool to edit your code. Any text editor you have will work fine.
+A tool to edit your code. Any text editor you have will work fine. 
 A command terminal. Go works well using any terminal on Linux and Mac, and on PowerShell or cmd in Windows.
 The curl tool. On Linux and Mac, this should already be installed. On Windows, it’s included on Windows 10 Insider build 17063 and later. For earlier Windows versions, you might need to install it. For more, see Tar and Curl Come to Windows.
 
