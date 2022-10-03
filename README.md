@@ -20,3 +20,6 @@ POST – Add a new album from request data sent as JSON.
 
 GET – Get an album by its ID, returning the album data as JSON.
 Next, you’ll create a folder for your code.
+
+#command lines
+curl http://localhost:8080/albums
